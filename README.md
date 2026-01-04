@@ -50,13 +50,13 @@
 
 ## ຈຸດປະສົງ 
 
-ຝຶກອອກແບບ REST API
-ຝຶກການໃຊ້ແລະເຂົ້າໃຈ JWT Authentication: ມີຄວາມເຂົ້າໃຈ ແລະ ສາມາດນຳໃຊ້ລະບົບຢືນຢັນຕົວຕົນດ້ວຍ JWT (JSON Web Token) ເພື່ອຄວາມປອດໄພຂອງຂໍ້ມູນ.
-ຝຶກອອກແບບໂຄງສ້າງ Backend ສຳລັບລະບົບຈິງ
+- ຝຶກອອກແບບ REST API
+- ຝຶກການໃຊ້ແລະເຂົ້າໃຈ JWT Authentication: ມີຄວາມເຂົ້າໃຈ ແລະ ສາມາດນຳໃຊ້ລະບົບຢືນຢັນຕົວຕົນດ້ວຍ JWT (JSON Web Token) ເພື່ອຄວາມປອດໄພຂອງຂໍ້ມູນ.
+- ຝຶກອອກແບບໂຄງສ້າງ Backend ສຳລັບລະບົບຈິງ
 
 
 
-ຮູບພາບຕົວຢ່າງ 
+## ຮູບພາບຕົວຢ່າງ 
 Products
 <img width="1917" height="1031" alt="image" src="https://github.com/user-attachments/assets/20cc2548-84af-4279-8c94-763368b800d7" />
 Orders
