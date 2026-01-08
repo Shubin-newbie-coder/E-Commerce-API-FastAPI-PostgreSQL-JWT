@@ -41,7 +41,8 @@
 - ALGORITHM=HS256
 - ACCESS_TOKEN_EXPIRE_MINUTES=30
 ### Run Server
-- uvicorn app.main:app --reload    or
+- uvicorn app.main:app --reload
+- or
 - uvicorn main:app --reload
 
 
